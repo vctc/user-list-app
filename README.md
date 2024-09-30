@@ -50,3 +50,10 @@ A user list application built with React, Redux, and TypeScript. This app allows
 ├── package.json
 └── README.md
 ```
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/7b9217f7-484a-4cdd-ae3b-b56901eefdd4)
+![image](https://github.com/user-attachments/assets/87c9c94a-4b74-4205-9857-0e14e7326561)
+
+
